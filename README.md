@@ -90,3 +90,8 @@ During testing, defects were identified and documented with:
 ## Result
 
 The project provided practical experience in API testing, request validation, negative testing, boundary value analysis and documenting API defects.
+
+## 📁 Project Materials
+
+* [API Test Checklist](test-checklist/README.md)
+* [Bug Reports](bug-reports/README.md)
